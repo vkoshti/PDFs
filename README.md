@@ -1,2 +1,11 @@
 # PDFs
-pdf of algorithms, android developement, c++,django , python and many more
+pdf of
+algorithms (by corman), 
+android developement(by google), 
+c++ (Herbert_Schildt) ,
+django , 
+python, 
+pyqt
+JAVA: the complete reference 
+CSS
+AJAX
